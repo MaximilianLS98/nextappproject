@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 function Post({ date, image, title }) {
   let { file, description } = image
 
